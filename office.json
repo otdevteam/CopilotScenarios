@@ -1,0 +1,187 @@
+[
+  {
+    "OfficeEntityId": "cc8b8841-65cf-ed11-9f71-000d3ad1fa25",
+    "OfficeId": 117,
+    "OfficeName": "AUTO_OFFICE_CC_A1_A",
+    "Agency": {
+      "AgencyEntityId": "ca8b8841-65cf-ed11-9f71-000d3ad1fa25",
+      "AgencyId": 39,
+      "AgencyName": "AUTO_AGENCY_CC_1",
+      "__typename": "Agency"
+    },
+    "StreetAddress": {
+      "FormattedAddress": "41 Burwood Road, Hawthorn, VIC, 3122",
+      "StateName": "VIC",
+      "__typename": "Address"
+    },
+    "LeasingEnquiryEmail": "AUTO_OFFICE_CC_A1_A@kolmeo.com",
+    "PropertyQuantity": 512,
+    "IsDeleted": false,
+    "CreatedDate": "2023-03-31T01:42:12.8499126",
+    "ModifiedDate": "2023-03-31T01:42:12.8499126",
+    "ModifiedByProfile": {
+      "EntityId": "16ce8169-ba9a-4011-82e0-0d1903756e2d",
+      "UserProfileId": 125676,
+      "FirstName": "Migration",
+      "LastName": "Process",
+      "DisplayName": "Migration Process",
+      "ImageUrl": "",
+      "EmailAddress": "",
+      "ProfileType": {
+        "ProfileName": "Staff Member",
+        "ProfileTypeId": 1,
+        "__typename": "ProfileType"
+      },
+      "__typename": "UserProfile"
+    },
+    "__typename": "Office"
+  },
+  {
+    "OfficeEntityId": "cd8b8841-65cf-ed11-9f71-000d3ad1fa25",
+    "OfficeId": 118,
+    "OfficeName": "AUTO_OFFICE_CC_A1_B",
+    "Agency": {
+      "AgencyEntityId": "ca8b8841-65cf-ed11-9f71-000d3ad1fa25",
+      "AgencyId": 39,
+      "AgencyName": "AUTO_AGENCY_CC_1",
+      "__typename": "Agency"
+    },
+    "StreetAddress": {
+      "FormattedAddress": "41 Burwood Road, Hawthorn, VIC, 3122",
+      "StateName": "VIC",
+      "__typename": "Address"
+    },
+    "LeasingEnquiryEmail": "AUTO_OFFICE_CC_A1_B@kolmeo.com",
+    "PropertyQuantity": 7,
+    "IsDeleted": false,
+    "CreatedDate": "2023-03-31T01:42:12.8811635",
+    "ModifiedDate": "2023-03-31T01:42:12.8811635",
+    "ModifiedByProfile": {
+      "EntityId": "16ce8169-ba9a-4011-82e0-0d1903756e2d",
+      "UserProfileId": 125676,
+      "FirstName": "Migration",
+      "LastName": "Process",
+      "DisplayName": "Migration Process",
+      "ImageUrl": "",
+      "EmailAddress": "",
+      "ProfileType": {
+        "ProfileName": "Staff Member",
+        "ProfileTypeId": 1,
+        "__typename": "ProfileType"
+      },
+      "__typename": "UserProfile"
+    },
+    "__typename": "Office"
+  },
+  {
+    "OfficeEntityId": "ce8b8841-65cf-ed11-9f71-000d3ad1fa25",
+    "OfficeId": 119,
+    "OfficeName": "AUTO_OFFICE_CC_A1_C",
+    "Agency": {
+      "AgencyEntityId": "ca8b8841-65cf-ed11-9f71-000d3ad1fa25",
+      "AgencyId": 39,
+      "AgencyName": "AUTO_AGENCY_CC_1",
+      "__typename": "Agency"
+    },
+    "StreetAddress": {
+      "FormattedAddress": "41 Burwood Road, Hawthorn, VIC, 3122",
+      "StateName": "VIC",
+      "__typename": "Address"
+    },
+    "LeasingEnquiryEmail": "AUTO_OFFICE_CC_A1_C@kolmeo.com",
+    "PropertyQuantity": 8,
+    "IsDeleted": false,
+    "CreatedDate": "2023-03-31T01:42:12.9124136",
+    "ModifiedDate": "2023-03-31T01:42:12.9124136",
+    "ModifiedByProfile": {
+      "EntityId": "16ce8169-ba9a-4011-82e0-0d1903756e2d",
+      "UserProfileId": 125676,
+      "FirstName": "Migration",
+      "LastName": "Process",
+      "DisplayName": "Migration Process",
+      "ImageUrl": "",
+      "EmailAddress": "",
+      "ProfileType": {
+        "ProfileName": "Staff Member",
+        "ProfileTypeId": 1,
+        "__typename": "ProfileType"
+      },
+      "__typename": "UserProfile"
+    },
+    "__typename": "Office"
+  },
+  {
+    "OfficeEntityId": "cf8b8841-65cf-ed11-9f71-000d3ad1fa25",
+    "OfficeId": 120,
+    "OfficeName": "AUTO_OFFICE_CC_A2_D",
+    "Agency": {
+      "AgencyEntityId": "cb8b8841-65cf-ed11-9f71-000d3ad1fa25",
+      "AgencyId": 40,
+      "AgencyName": "AUTO_AGENCY_CC_2",
+      "__typename": "Agency"
+    },
+    "StreetAddress": {
+      "FormattedAddress": "41 Burwood Road, Hawthorn, VIC, 3122",
+      "StateName": "VIC",
+      "__typename": "Address"
+    },
+    "LeasingEnquiryEmail": "AUTO_OFFICE_CC_A2_D@kolmeo.com",
+    "PropertyQuantity": 7,
+    "IsDeleted": false,
+    "CreatedDate": "2023-03-31T01:42:12.9436622",
+    "ModifiedDate": "2023-03-31T01:42:12.9436622",
+    "ModifiedByProfile": {
+      "EntityId": "16ce8169-ba9a-4011-82e0-0d1903756e2d",
+      "UserProfileId": 125676,
+      "FirstName": "Migration",
+      "LastName": "Process",
+      "DisplayName": "Migration Process",
+      "ImageUrl": "",
+      "EmailAddress": "",
+      "ProfileType": {
+        "ProfileName": "Staff Member",
+        "ProfileTypeId": 1,
+        "__typename": "ProfileType"
+      },
+      "__typename": "UserProfile"
+    },
+    "__typename": "Office"
+  },
+  {
+    "OfficeEntityId": "d08b8841-65cf-ed11-9f71-000d3ad1fa25",
+    "OfficeId": 121,
+    "OfficeName": "AUTO_OFFICE_CC_A2_E",
+    "Agency": {
+      "AgencyEntityId": "cb8b8841-65cf-ed11-9f71-000d3ad1fa25",
+      "AgencyId": 40,
+      "AgencyName": "AUTO_AGENCY_CC_2",
+      "__typename": "Agency"
+    },
+    "StreetAddress": {
+      "FormattedAddress": "41 Burwood Road, Hawthorn, VIC, 3122",
+      "StateName": "VIC",
+      "__typename": "Address"
+    },
+    "LeasingEnquiryEmail": "AUTO_OFFICE_CC_A2_E@kolmeo.com",
+    "PropertyQuantity": 5,
+    "IsDeleted": false,
+    "CreatedDate": "2023-03-31T01:42:12.9749142",
+    "ModifiedDate": "2023-03-31T01:42:12.9749142",
+    "ModifiedByProfile": {
+      "EntityId": "16ce8169-ba9a-4011-82e0-0d1903756e2d",
+      "UserProfileId": 125676,
+      "FirstName": "Migration",
+      "LastName": "Process",
+      "DisplayName": "Migration Process",
+      "ImageUrl": "",
+      "EmailAddress": "",
+      "ProfileType": {
+        "ProfileName": "Staff Member",
+        "ProfileTypeId": 1,
+        "__typename": "ProfileType"
+      },
+      "__typename": "UserProfile"
+    },
+    "__typename": "Office"
+  }
+]
